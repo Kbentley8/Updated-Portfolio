@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: Arial, "Verdana", Verdana, Geneva, Tahoma, sans-serif, sans-serif;
   font-size: 18px;
   line-height: 34px;
   color: rgb(41, 121, 94);
@@ -101,7 +101,7 @@ nav a:first-child {
 }
 
 nav a:hover {
-  color: #da4d88;
+  color: rgb(41, 121, 94);
 }
 
   /* For mobile screens: */

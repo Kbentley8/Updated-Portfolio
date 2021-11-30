@@ -1,5 +1,5 @@
 # Updated-Portfolio Homework 15
-In this project, I  updated my portfolio webpage with an updated resume, three newer homework assignments, an updated git hub repo and an updated LinkedIn profile. I created a list for my projects and added a link to the deployed site and git hub repository for each of my works. For this assignment, html and css were used. 
+In this project, I  updated my portfolio webpage with an updated resume, three newer projects, an updated git hub repo and an updated LinkedIn profile. I created a list for my projects and added a link to the deployed site and git hub repository for each of my works. For this project, html and css were used. 
 
 # Usage 
 
